@@ -6,7 +6,7 @@ import { AuthService } from './service/auth.service';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'inpt-cloud-mangas-Abire';
+  title = 'inpt-cloud-mangas-AmalHajar';
   email: string;
   password: string;
 
